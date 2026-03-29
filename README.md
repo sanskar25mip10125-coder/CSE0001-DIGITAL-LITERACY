@@ -24,8 +24,8 @@ This project was created as part of the **CSE0001 Digital Literacy** course at V
 
 ### Task 2 – Digital Portfolio
 * **GitHub Profile:** [https://github.com/sanskar10125-coder](https://github.com/sanskar25mip10125-coder)
-* **LinkedIn Profile:** [https://www.linkedin.com/in/aaryan-saxena/](https://www.linkedin.com/in/aaryan-saxena-a98bb7394/)
-* **Kaggle Profile:** [https://www.kaggle.com/aaryansaxena247](https://www.kaggle.com/aaryansaxena247)
+* **LinkedIn Profile:** [https://www.linkedin.com/in/sanskar-sharma-682245370/](https://www.linkedin.com/in/sanskar-sharma-682245370/)
+* **Kaggle Profile:** [https://www.kaggle.com/sanskarsh0312](https://www.kaggle.com/sanskarsh0312)
 * *These platforms help in building a professional online presence.*
 
 ---
