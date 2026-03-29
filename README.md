@@ -1,14 +1,14 @@
+
 # CSE0001-DIGITAL-LITERACY
 # Digital Literacy Project
 
-**Name:** Sanskar Sharma
-<br>
-**Registration Number:** 25MIP10125 
-<br>
+**Name:** Sanskar Sharma  
+**Registration Number:** 25MIP10125  
 **Course Code:** CSE0001  
 **Course Title:** Digital Literacy  
-**Branch:** Computational Data Science   
+**Branch:** Computational Data Science  
 **Year:** First Year  
+
 ---
 
 ## 📌 Project Overview
@@ -16,11 +16,18 @@ This project was created as part of the **CSE0001 Digital Literacy** course at V
 
 ---
 
-### Task 1 – Digital Literacy Infographic
-* **Infographic File:**
+## 📊 Task 1 – Digital Literacy Infographic
 
-[![Digital Literacy Infographic](./digital-literacy-infographic.png)](./digital-literacy-infographic.png)
-* This infographic explains the concept of digital literacy and highlights useful tools, safety practices, and communication skills for students.
+### 🔗 View Infographic
+[Click here to view the infographic](https://github.com/sanskar25mip10125-coder/CSE0001-DIGITAL-LITERACY/blob/main/Digital%20Literacy/task%201%20-%20presentation/digital-literacy-infographic.png?raw=true)
+
+### 🖼️ Preview
+[![Digital Literacy Infographic](https://github.com/sanskar25mip10125-coder/CSE0001-DIGITAL-LITERACY/blob/main/Digital%20Literacy/task%201%20-%20presentation/digital-literacy-infographic.png?raw=true)](https://github.com/sanskar25mip10125-coder/CSE0001-DIGITAL-LITERACY/blob/main/Digital%20Literacy/task%201%20-%20presentation/digital-literacy-infographic.png?raw=true)
+
+---
+
+### 📝 Description
+This infographic explains the concept of digital literacy and highlights useful tools, safety practices, and communication skills for students.
 
 ---
 
