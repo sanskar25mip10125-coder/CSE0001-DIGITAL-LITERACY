@@ -17,7 +17,9 @@ This project was created as part of the **CSE0001 Digital Literacy** course at V
 ---
 
 ### Task 1 – Digital Literacy Infographic
-* **Infographic File:** [View Here](./digital-literacy-infographic.png)
+* **Infographic File:**
+
+[![Digital Literacy Infographic](./digital-literacy-infographic.png)](./digital-literacy-infographic.png)
 * This infographic explains the concept of digital literacy and highlights useful tools, safety practices, and communication skills for students.
 
 ---
