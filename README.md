@@ -34,8 +34,8 @@ This project was created as part of the **CSE0001 Digital Literacy** course at V
 * HackerRank problem solution
 * Google Form screenshot
 * Google Sheet responses
-* **Google Form Link:** [https://forms.gle](https://docs.google.com/forms/d/e/1FAIpQLSdRuoRUTTRP4AsEhLRCvJg8HmRi0FtAi7wF0kueJ4PYG_qQWg/viewform?usp=publish-editor)
-* **Google Sheet Link:** [https://docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1bl3rT45I513yb6Y65MVaO3tjvpy4BZZAQv35F6ZqTFA/edit?resourcekey=&gid=465986661#gid=465986661)
+* **Google Form Link:** [https://forms.gle](https://docs.google.com/forms/d/10Xa7-wdkUFiXngxBYfsw4v2M6gVSnR-swi7uqyJYJeg/edit)
+* **Google Sheet Link:** [https://docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1Xd3yofLTIOOGujq28moX0rH9K-8yogypfjSOblxxe_s/edit?resourcekey=&gid=1015975321#gid=1015975321)
 * *These tools help in coding practice and collaboration.*
 
 ---
